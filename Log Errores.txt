@@ -1,0 +1,36 @@
+ERROR
+10-02-2020 16:40:28
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
+ERROR
+10-02-2020 16:43:11
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
+ERROR
+19-03-2019 23:13:47
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
+ERROR
+28-02-2020 16:28:32
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
+ERROR
+06-03-2020 8:13:39
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
+ERROR
+18-03-2020 9:23:30
+Error -2147467259
+Detalle Error: NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for SQL Server: [DBNETLIB][ConnectionOpen (Connect()).]No existe el servidor SQL Server o se ha denegado el acceso al mismo. in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->NI_Database_API.lvlib:DB Tools Open Connec (Path).vi->DB_Lee_Usuarios.vi->Login usuario.vi->Main.vi
+-------------------------
